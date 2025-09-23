@@ -2,6 +2,10 @@
 
 🎯 *Aspiring Data Analyst | Final-year Information Systems Student*  
 
+[![Email](https://img.shields.io/badge/Email-vohuy08102004%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vohuy08102004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vo%20Quoc%20Huy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vo-quoc-huy/)
+[![GitHub](https://img.shields.io/badge/GitHub-huydamme-black?style=flat-square&logo=github)](https://github.com/huydamme)
+
 ---
 
 ## 🚀 About Me
