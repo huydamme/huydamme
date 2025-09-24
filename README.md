@@ -35,9 +35,9 @@ University of Information Technology (UIT)
 
 ## 💻 My Tech Stack  
 
-### 🧑‍💻 Query & Programming Languages  
-- **Query Languages:** SQL (joins, aggregations)  
-- **Programming:** Python (Pandas, NumPy), R  
+### 🧑‍💻Programming Languages  
+- Python
+- R
 
 ---
 
