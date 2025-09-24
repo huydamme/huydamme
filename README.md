@@ -80,27 +80,51 @@ University of Information Technology (UIT)
 
 ---
 
-## 📂 Featured Projects  
-
-### 🔹 OLAP Analysis of Popular Video Games  
-*Sep 2024 – Dec 2024 | Team Project*  
-Tech: Power BI, SQL Server, SSIS, SSAS  
-- Designed and implemented ETL pipeline for automated data loading  
-- Built OLAP cubes to analyze games by genre, platform, release year  
-- Created Power BI dashboards for storytelling and insights  
-- 📊 Found that **41.7% of 35K+ games were released 2011–2020, then declined post-2020**  
-- 🔗 [Project Link](http://bit.ly/3JfWwbW)  
+Rất hay 👏. Bạn đã có 2 project mạnh rồi (Video Games OLAP + Cyclistic Bike-Share). Giờ mình sẽ bổ sung **Customer Retention & Churn Analysis** để portfolio của bạn có 3 project, cân đối giữa **BI/OLAP – Business Case – Machine Learning**.
 
 ---
 
-### 🔹 Cyclistic Bike-Share Case Study  
-*Sep 2025 | Capstone Project (Google Data Analytics Certificate)*  
-Tech: R, tidyverse, ggplot2  
-- Analyzed **800K+ trips** to compare casual riders vs. annual members  
-- Cleaned & transformed data with tidyverse, lubridate, janitor  
-- Built visualizations (ride frequency, duration, top stations) with ggplot2  
-- 📊 Found that **members use bikes on weekdays (commute)**, while **casual riders peak weekends (leisure)**  
-- 🔗 [GitHub Repository](https://github.com/huydamme)  
+## 📂 Featured Projects
+
+### 🔹 OLAP Analysis of Popular Video Games
+
+*Sep 2024 – Dec 2024 | Team Project*
+**Tech:** Power BI, SQL Server, SSIS, SSAS
+
+* Designed and implemented ETL pipeline for automated data loading
+* Built OLAP cubes to analyze games by genre, platform, release year
+* Created Power BI dashboards for storytelling and insights
+* 📊 Found that **41.7% of 35K+ games were released 2011–2020, then declined post-2020**
+* 🔗 [Project Link](http://bit.ly/3JfWwbW)
+
+---
+
+### 🔹 Cyclistic Bike-Share Case Study
+
+*Sep 2025 | Capstone Project (Google Data Analytics Certificate)*
+**Tech:** R, tidyverse, ggplot2
+
+* Analyzed **800K+ trips** to compare casual riders vs. annual members
+* Cleaned & transformed data with tidyverse, lubridate, janitor
+* Built visualizations (ride frequency, duration, top stations) with ggplot2
+* 📊 Found that **members use bikes on weekdays (commute)**, while **casual riders peak weekends (leisure)**
+* 🔗 [GitHub Repository](https://github.com/huydamme)
+
+---
+
+### 🔹 Customer Retention & Churn Analysis
+
+*Sep 2025 | Individual Project*
+**Tech:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
+
+* Conducted churn analysis on **7,000+ telco customer records** (Kaggle dataset)
+* Performed EDA: churn highest in **month-to-month contracts (42.7%)**, **new customers (0–12 months, 47.7%)**, and **electronic check payments (45.3%)**
+* Built predictive models:
+
+  * **Logistic Regression** → churn risk concentrated in new customers with high costs and fiber optic service
+  * **Random Forest** → ranked feature importance (TotalCharges, Tenure, MonthlyCharges, Payment Method, Internet Service)
+* 📊 Delivered business recommendations: improve onboarding, incentivize long-term contracts, enhance fiber optic service, and use churn risk scoring for proactive retention
+* 🔗 [GitHub Repository](https://github.com/huydamme)
 
 ---
 
