@@ -42,7 +42,7 @@ University of Information Technology (UIT)
 ---
 
 ### 📊 Business Intelligence & Visualization  
-- Power BI (Dashboards, Reports)  
+- Power BI 
 - Matplotlib  
 - ggplot2  
 - Tableau  
@@ -58,8 +58,8 @@ University of Information Technology (UIT)
 ---
 
 ### 🧠 Tools & Collaboration  
-- Git/GitHub (version control & collaboration)  
-- Jupyter Notebook (analysis documentation & workflows)  
+- Git/GitHub 
+- Jupyter Notebook  
 - VS Code  
 - Visual Studio  
 
