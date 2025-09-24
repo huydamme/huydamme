@@ -80,10 +80,6 @@ University of Information Technology (UIT)
 
 ---
 
-Rất hay 👏. Bạn đã có 2 project mạnh rồi (Video Games OLAP + Cyclistic Bike-Share). Giờ mình sẽ bổ sung **Customer Retention & Churn Analysis** để portfolio của bạn có 3 project, cân đối giữa **BI/OLAP – Business Case – Machine Learning**.
-
----
-
 ## 📂 Featured Projects
 
 ### 🔹 OLAP Analysis of Popular Video Games
