@@ -62,7 +62,7 @@ University of Information Technology (UIT)
 - Jupyter Notebook  
 - VS Code  
 - Visual Studio  
-
+- Excel
 ---
 
 ### 🧾 Office Productivity  
