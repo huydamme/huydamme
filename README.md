@@ -100,7 +100,7 @@ University of Information Technology (UIT)
 
 *Sep 2025 | Capstone Project (Google Data Analytics Certificate)*
 
-**Tech:** R, tidyverse, ggplot2
+**Tech:** R (tidyverse, ggplot2), Tableau
 
 * Analyzed **800K+ trips** to compare casual riders vs. annual members
 * Cleaned & transformed data with tidyverse, lubridate, janitor
@@ -114,7 +114,7 @@ University of Information Technology (UIT)
 
 *Sep 2025 | Individual Project*
 
-**Tech:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
+**Tech:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), PowerBI
 
 * Conducted churn analysis on **7,000+ telco customer records** (Kaggle dataset)
 * Performed EDA: churn highest in **month-to-month contracts (42.7%)**, **new customers (0–12 months, 47.7%)**, and **electronic check payments (45.3%)**
