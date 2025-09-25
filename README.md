@@ -86,7 +86,6 @@ University of Information Technology (UIT)
 
 *Sep 2024 – Dec 2024 | Team Project*
 
-
 **Tech:** Power BI, SQL Server, SSIS, SSAS
 
 * Designed and implemented ETL pipeline for automated data loading
@@ -100,6 +99,7 @@ University of Information Technology (UIT)
 ### 🔹 Cyclistic Bike-Share Case Study
 
 *Sep 2025 | Capstone Project (Google Data Analytics Certificate)*
+
 **Tech:** R, tidyverse, ggplot2
 
 * Analyzed **800K+ trips** to compare casual riders vs. annual members
