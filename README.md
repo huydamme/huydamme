@@ -61,8 +61,8 @@ University of Information Technology (UIT)
 - Git/GitHub 
 - Jupyter Notebook  
 - VS Code  
-- Visual Studio  
-- Excel
+- Visual Studio
+
 ---
 
 ### 🧾 Office Productivity  
