@@ -85,6 +85,8 @@ University of Information Technology (UIT)
 ### 🔹 OLAP Analysis of Popular Video Games
 
 *Sep 2024 – Dec 2024 | Team Project*
+
+
 **Tech:** Power BI, SQL Server, SSIS, SSAS
 
 * Designed and implemented ETL pipeline for automated data loading
@@ -111,6 +113,7 @@ University of Information Technology (UIT)
 ### 🔹 Customer Retention & Churn Analysis
 
 *Sep 2025 | Individual Project*
+
 **Tech:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
 
 * Conducted churn analysis on **7,000+ telco customer records** (Kaggle dataset)
