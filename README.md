@@ -106,7 +106,7 @@ University of Information Technology (UIT)
 * Cleaned & transformed data with tidyverse, lubridate, janitor
 * Built visualizations (ride frequency, duration, top stations) with ggplot2
 * 📊 Found that **members use bikes on weekdays (commute)**, while **casual riders peak weekends (leisure)**
-* 🔗 [GitHub Repository]([https://github.com/huydamme](https://github.com/huydamme/Cyclistic-Bike-Share-Case-Study))
+* 🔗 [GitHub Repository]([https://github.com/huydamme/Cyclistic-Bike-Share-Case-Study]
 
 ---
 
@@ -123,7 +123,7 @@ University of Information Technology (UIT)
   * **Logistic Regression** → churn risk concentrated in new customers with high costs and fiber optic service
   * **Random Forest** → ranked feature importance (TotalCharges, Tenure, MonthlyCharges, Payment Method, Internet Service)
 * 📊 Delivered business recommendations: improve onboarding, incentivize long-term contracts, enhance fiber optic service, and use churn risk scoring for proactive retention
-* 🔗 [GitHub Repository]([https://github.com/huydamme](https://github.com/huydamme/Customer_Retention_And_Churn_Analysis))
+* 🔗 [GitHub Repository]([https://github.com/huydamme/Customer_Retention_And_Churn_Analysis]
 
 ---
 
