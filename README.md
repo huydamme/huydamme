@@ -123,7 +123,7 @@ University of Information Technology (UIT)
   - **Cohort Analysis** → measured retention rate over time  
 * 📈 Generated insights on purchase frequency, revenue contribution, and churn behavior  
 * Built interactive Power BI dashboard for visualization and storytelling  
-* 🔗 [GitHub Repository](https://github.com/huydamme/ShopNow_Ecommerce_Analysis)
+* 🔗 [GitHub Repository](https://github.com/huydamme/Shop_Now_Ecommerce)
 
 ---
 
