@@ -112,7 +112,7 @@ University of Information Technology (UIT)
 
 ### 🔹 eCommerce Customer Analysis (SQL + Power BI)
 
-*Aug 2025 | Individual Project*
+*Oct 2025 | Individual Project*
 
 **Tech:** MySQL, Power BI  
 
