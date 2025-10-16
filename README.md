@@ -110,6 +110,27 @@ University of Information Technology (UIT)
 
 ---
 
+### 🔹 eCommerce Customer Analysis (SQL + Power BI)
+
+*Aug 2025 | Individual Project*
+
+**Tech:** MySQL, Power BI  
+
+* Cleaned and standardized eCommerce order data using SQL  
+* Performed:  
+  - **RFM Analysis** → segmented customers into *Champions*, *At Risk*, *Loyal*, etc.  
+  - **Customer Lifetime Value (CLV)** → identified high-value customer groups  
+  - **Cohort Analysis** → measured retention rate over time  
+* 📈 Generated insights on purchase frequency, revenue contribution, and churn behavior  
+* Built interactive Power BI dashboard for visualization and storytelling  
+
+<div align="center">
+  <img src="ShopNow_Ecommerce_Analysis/Dashboard/ShopNow_dashboard.png" alt="ShopNow Dashboard" width="80%">
+</div>
+
+* 🔗 [GitHub Repository](https://github.com/huydamme/ShopNow_Ecommerce_Analysis)
+
+
 ### 🔹 Customer Retention & Churn Analysis
 
 *Sep 2025 | Individual Project*
