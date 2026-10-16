@@ -23,6 +23,8 @@
 **Bachelor of Information Systems**  
 University of Information Technology (UIT)  
 📅 Oct 2022 – Nov 2026  
+*Graduated; currently awaiting diploma issuance.*
+
 📘 Relevant Coursework: Data Warehousing & OLAP, Business Data Analysis, Data Mining, Big Data  
 
 ---
