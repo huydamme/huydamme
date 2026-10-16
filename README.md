@@ -27,10 +27,36 @@ University of Information Technology (UIT)
 
 ---
 
+## 💼 Work Experience
+
+**Data Analyst Intern — Pin Wei**
+
+*May 2026 – Jul 2026*
+
+**Tools**: Google Sheets, Google Apps Script, Looker Studio, Make
+
+- Built and maintained a POS reporting pipeline across 3 F&B branches to support business performance monitoring.
+
+- Cleaned and consolidated **8,072 invoices, 12,105 guest visits, and 5,977 item-level sales records** for reporting and analysis.
+
+- Developed **4 Looker Studio dashboards** covering revenue, promotions, customer retention, and Google Reviews.
+
+- Tracked business KPIs, including Average Order Value (AOV) and Repeat Customer Rate.
+
+- Implemented snapshot-based visit tracking to support customer visit and retention analysis.
+
+- Established a **7.6% repeat customer rate baseline** to support evaluation of a membership program.
+
+- Extended the reporting workflow to a third branch to improve consistency across locations.
+
+**Key learning**: Gained practical experience in data preparation, reporting automation, KPI tracking, and translating operational reporting needs into dashboards.
+
+---
+
 ## 📜 Certifications
 - 🎓 Google Data Analytics Certificate *(Sep 2025)*  
   Covers SQL, Tableau, R, Data Cleaning, Data Visualization, Business Problem-Solving  
-
+- 🎓 Google Business Intelligence Certificate *(Oct 2025)*
 ---
 
 ## 💻 My Tech Stack  
@@ -145,7 +171,7 @@ University of Information Technology (UIT)
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: [vohuy08102004@gmail.com](mailto:vohuy08102004@gmail.com)  
+- 📧 [vohuy08102004@gmail.com](mailto:vohuy08102004@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vo-quoc-huy/)  
 - 🐙 [GitHub](https://github.com/huydamme)  
 
