@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Võ Quốc Huy  
 
-🎯 *Aspiring Data Analyst | Final-year Information Systems Student*  
+🎯 *Data Analyst Fresher | Information Systems Graduate*  
 
 [![Email](https://img.shields.io/badge/Email-vohuy08102004%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vohuy08102004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vo%20Quoc%20Huy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vo-quoc-huy/)
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 📊 Final-year student at **University of Information Technology**  
+- 📊 Information Systems graduate from the **University of Information Technology (UIT–VNU-HCM)**, currently awaiting diploma issuance.
 - 🔍 Interested in **Data Analytics, Business Intelligence, and Big Data**  
 - 🌱 Currently learning advanced SQL, Python for data analytics, and visualization tools  
 
@@ -22,7 +22,7 @@
 ## 🎓 Education
 **Bachelor of Information Systems**  
 University of Information Technology (UIT)  
-📅 Oct 2022 – Jun 2026  
+📅 Oct 2022 – Nov 2026  
 📘 Relevant Coursework: Data Warehousing & OLAP, Business Data Analysis, Data Mining, Big Data  
 
 ---
